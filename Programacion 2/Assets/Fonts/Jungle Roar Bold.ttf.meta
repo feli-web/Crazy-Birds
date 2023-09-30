@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b3ec87af43593644aeb4bec2b01238d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jungle Roar
+  fontNames:
+  - Jungle Roar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 796c15b418b6425488e4ea1038f7150b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
